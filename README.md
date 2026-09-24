@@ -81,4 +81,4 @@ Este projeto está sob a licença [MIT](./LICENSE). Sinta-se à vontade para uti
 ---
 
 ### 👤 Autor
-Desenvolvido por **[Victor (Sovinha)](https://github.com/Sovinha)**.
+Desenvolvido por **[João Lucas - Sovinha](https://github.com/Sovinha)**.
